@@ -4,5 +4,3 @@ var playlist= {
 };
 
 var playlist = updatePlaylist( {artistName: "songTitle"})
-  
-
