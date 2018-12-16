@@ -5,4 +5,4 @@ var playlist= {
 
  function updatePlaylist(){
   object.assign({}, playlist[artistName], songTitle)
-}
+};
