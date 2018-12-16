@@ -4,5 +4,5 @@ var playlist= {
 };
 
  function updatePlaylist(){
-  object.assign({}, playlist[artistName]:, songTitle)
+  object.assign({}, playlist[artistName], songTitle)
 }
